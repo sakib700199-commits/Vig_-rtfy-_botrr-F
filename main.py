@@ -9,7 +9,7 @@ from aiogram.types import InlineKeyboardButton, Message, CallbackQuery
 from aiohttp import web
 
 # --- 🛠 CONFIGURATION ---
-API_TOKEN = '7983535493:AAHfBSZvH-usRave1ztDLap5EJ2nXx8RwUk'
+API_TOKEN = '8090436930:AAEIIa_7qfUsr9qgU9Q_V6zX4c-HwbCS0dE'
 ADMIN_ID = 8128852482
 PORT = int(os.environ.get("PORT", 8080))
 DB_FILE = "premium_users.json"
