@@ -1,0 +1,5 @@
+
+requests 
+aiogram
+aiohttp
+colorama
